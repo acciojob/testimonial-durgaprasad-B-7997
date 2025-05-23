@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.testmonials-container {
+	background-color: #f5f5f5;
+	padding: 20px;
+}
+
+.testmonial {
+	background-color: white;
+	border: 1px solid #ccc;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+.text{
+	
+}
+
+.author{
+	text-align: right;
+	font-style: italic;
+}
